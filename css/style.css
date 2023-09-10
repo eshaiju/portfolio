@@ -372,6 +372,7 @@ body {
 .slider_small ul li .figure {
     position: relative;
     overflow: hidden;
+    max-height: 245px;
 }
 .slider_small ul li .figure img {
     width: 100%;
